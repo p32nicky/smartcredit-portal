@@ -6,7 +6,7 @@ import AffiliateCtaBox from '@/components/AffiliateCtaBox';
 
 export const metadata: Metadata = {
   title: 'Credit Strategy Topic Categories | 10 Thematic Hubs',
-  description: 'Explore 10 comprehensive topic categories covering 500 strategic guides: credit repair, ScoreBoost utilization, 30,000+ creditor disputes, and identity defense.',
+  description: 'Explore 10 comprehensive topic categories covering 5,000 strategic guides: credit repair, ScoreBoost utilization, 30,000+ creditor disputes, and identity defense.',
 };
 
 export default function CategoriesPage() {
@@ -23,7 +23,7 @@ export default function CategoriesPage() {
           10 Strategic Topic Clusters
         </h1>
         <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-          Each topic hub contains 50 specialized, in-depth guides designed to help you tackle specific credit challenges, optimize scoring algorithms, and enforce your federal consumer rights.
+          Each topic hub contains 500 specialized, in-depth guides designed to help you tackle specific credit challenges, optimize scoring algorithms, and enforce your federal consumer rights.
         </p>
       </div>
 

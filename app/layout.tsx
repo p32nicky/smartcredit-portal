@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_CONFIG.url),
   title: {
-    default: `${SITE_CONFIG.name} | 500+ Guides & Direct Action Tactics`,
+    default: `${SITE_CONFIG.name} | 5,000+ Guides & Direct Action Tactics`,
     template: `%s | ${SITE_CONFIG.shortName}`,
   },
   description: SITE_CONFIG.description,

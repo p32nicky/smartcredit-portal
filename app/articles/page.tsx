@@ -5,8 +5,8 @@ import AffiliateCtaBox from '@/components/AffiliateCtaBox';
 import { BookOpen } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'All 500 Credit Guides & Strategic Articles',
-  description: 'Search and browse our library of 500 data-backed guides covering credit repair, 120-day roadmaps, ScoreBoost simulations, direct dispute actions, and mortgage readiness.',
+  title: 'All 5,000 Credit Guides & Strategic Articles',
+  description: 'Search and browse our library of 5,000 data-backed guides covering credit repair, 120-day roadmaps, ScoreBoost simulations, direct dispute actions, and mortgage readiness.',
 };
 
 export default function ArticlesPage() {
@@ -22,7 +22,7 @@ export default function ArticlesPage() {
           <span>Full Knowledge Base</span>
         </div>
         <h1 className="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight">
-          500 Action-Driven Credit Guides
+          5,000 Action-Driven Credit Guides
         </h1>
         <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
           Search across all 10 thematic clusters. Find exact step-by-step roadmaps to dispute inaccuracies, master statement closing dates, eliminate zombie collections, and prepare for prime loan rates.

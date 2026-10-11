@@ -20,7 +20,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-slate-400 text-sm leading-relaxed max-w-sm">
-              An exhaustive consumer intelligence library featuring 500 strategic guides, deep dives into ScoreBuilder®, ScoreBoost™, patented Action buttons direct to 30,000+ creditors, and $1,000,000 identity fraud defense.
+              An exhaustive consumer intelligence library featuring 5,000 strategic guides, deep dives into ScoreBuilder®, ScoreBoost™, patented Action buttons direct to 30,000+ creditors, and $1,000,000 identity fraud defense.
             </p>
             <div className="pt-2">
               <a
@@ -91,7 +91,7 @@ export default function Footer() {
             <ul className="space-y-2.5 text-xs">
               <li>
                 <Link href="/articles" className="hover:text-blue-400 transition-colors">
-                  500 Articles Directory
+                  5,000 Articles Directory
                 </Link>
               </li>
               <li>
@@ -101,7 +101,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/sitemap.xml" className="hover:text-blue-400 transition-colors">
-                  XML Sitemap (500 URLs)
+                  XML Sitemap (5,000+ URLs)
                 </Link>
               </li>
               <li>

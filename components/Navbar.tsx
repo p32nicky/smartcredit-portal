@@ -25,7 +25,7 @@ export default function Navbar() {
 
           <nav className="hidden md:flex items-center gap-6 text-sm font-semibold text-slate-700">
             <Link href="/articles" className="hover:text-blue-600 transition-colors">
-              All 500 Articles
+              All 5,000 Articles
             </Link>
             <Link href="/categories" className="hover:text-blue-600 transition-colors">
               Topic Hubs

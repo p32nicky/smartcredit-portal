@@ -24,9 +24,11 @@ interface ArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
+
 export async function generateStaticParams() {
   const articles = getArticleIndex();
-  return articles.map((a) => ({
+  // Pre-render top 300 articles at build time; all 5,000 are rendered on-demand & cached by Vercel
+  return articles.slice(0, 300).map((a) => ({
     slug: a.slug,
   }));
 }

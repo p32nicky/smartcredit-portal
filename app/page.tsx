@@ -68,7 +68,7 @@ export default function HomePage() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-8">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs sm:text-sm font-semibold backdrop-blur-md">
             <Sparkles className="w-4 h-4 text-cyan-300" />
-            <span>500 Comprehensive Strategy Guides & Case Studies</span>
+            <span>5,000 Comprehensive Strategy Guides & Case Studies</span>
           </div>
 
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-black tracking-tight text-white max-w-5xl mx-auto leading-[1.1]">
@@ -99,7 +99,7 @@ export default function HomePage() {
               className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-7 py-4 rounded-2xl font-bold text-base bg-slate-800/80 hover:bg-slate-700 text-slate-200 border border-slate-700 transition-all"
             >
               <BookOpen className="w-5 h-5 text-blue-400" />
-              <span>Browse 500 Guides</span>
+              <span>Browse 5,000 Guides</span>
             </Link>
           </div>
 
@@ -132,7 +132,7 @@ export default function HomePage() {
             <div className="p-4 rounded-2xl bg-white/5 border border-white/5 backdrop-blur-sm">
               <div className="flex items-center gap-2 text-amber-400 mb-1">
                 <Award className="w-4 h-4" />
-                <span className="font-extrabold text-xl sm:text-2xl text-white">500</span>
+                <span className="font-extrabold text-xl sm:text-2xl text-white">5,000</span>
               </div>
               <p className="text-xs text-slate-400">In-Depth Action Guides</p>
             </div>
@@ -298,7 +298,7 @@ export default function HomePage() {
               Explore All 10 Topic Hubs
             </h2>
             <p className="text-slate-600 text-sm mt-1">
-              50 in-depth articles per cluster addressing every facet of credit repair, mortgage prep, and debt recovery.
+              500 in-depth articles per cluster addressing every facet of credit repair, mortgage prep, and debt recovery.
             </p>
           </div>
           <Link
@@ -356,7 +356,7 @@ export default function HomePage() {
               href="/articles"
               className="inline-flex items-center gap-2 text-sm font-bold text-blue-600 hover:text-blue-700"
             >
-              <span>Browse All 500 Articles</span>
+              <span>Browse All 5,000 Articles</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
